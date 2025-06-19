@@ -16,7 +16,7 @@ original ya que el proveedor de envio de correo puede realizarlo de forma asínc
 
 ## Desplegar con Docker
 - Si queremos probar todo el bloque completo podemos realizarlo con docker compose. La ejecución del siguiente comando va
-- alevantar una imagen de la aplicación, la cola, prometheus y grafana
+a levantar una imagen de la aplicación, la cola, prometheus y grafana
 - Debemos abrir una consola en la ruta del proyecto donde se encuentra el file docker-compose.yml
 - Ejecutar el siguiente comando
 ```bash
